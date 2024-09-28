@@ -1,5 +1,8 @@
 # Terms of Use – Home Committee / Tenants
 
+**Company**: Billclick Ltd.  
+**Effective Date**: November 27, 2023
+
 ## 1. General
 
 Please carefully read this agreement (hereinafter: "Terms of Use") before using the "Vaadbot" system.
