@@ -229,6 +229,3 @@ Company Name: **Billclick Ltd.**
 Mailing Address: Yehoshua Henkin 2, Afula  
 Email: yi@vaadbot.com
 
----
-
-This document was last updated on **November 27, 2023**.
