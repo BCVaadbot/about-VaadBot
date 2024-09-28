@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/BCVaadbot/about-VaadBot/blob/main/logo_vaadbot.png?raw=true" alt="VaadBot Logo" width="150" height="150">
-</p>
-
 # VaadBot - Property Management App
 
 **VaadBot** is a mobile application designed to streamline property management in multi-apartment buildings. It simplifies the work of Homeowners' Associations (HOAs) by facilitating communication, financial tracking, and logistical management. Whether you're a building manager, tenant, accountant, or supplier, VaadBot makes processes more efficient.
