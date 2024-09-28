@@ -1,4 +1,4 @@
-# Terms of Use – Home Committee / Tenants – Vaadbot
+# Terms of Use – Home Committee / Tenants
 
 ## 1. General
 
