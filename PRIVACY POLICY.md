@@ -1,5 +1,8 @@
 # Vaadbot - Privacy Policy
 
+**Company**: Billclick Ltd.  
+**Effective Date**: November 27, 2023
+
 ## 1. General
 
 1.1 The Vaadbot system assists in managing groups that share access to information and perform activities in collaboration with various services.
