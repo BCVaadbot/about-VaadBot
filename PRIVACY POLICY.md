@@ -107,3 +107,7 @@ For any questions or concerns about the Privacy Policy, users can contact the co
 
 - **Email**: yi@vaadbot.com  
 - **Company Name**: Vaadbot Ltd.
+
+---
+
+This document was last updated on **November 27, 2023**.
