@@ -214,6 +214,3 @@
 - **Email**: yi@vaadbot.com
 - **Address**: Yehoshua Hanatziv 2, Afula, Israel
 
----
-
-This document was last updated on **November 27, 2023**.
